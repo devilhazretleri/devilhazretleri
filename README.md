@@ -16,8 +16,7 @@
 <br/>
 <br/>
 
-- 💬 Bana her şeyi sormaktan çekinmeyin; Yardım etmek için buradayım.
-- 💼 Serbest çalışma fırsatlarına açık [email ](mailto:devilhazretleri@gmail.com),
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flrstgod)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/polatalemdar330)
@@ -39,6 +38,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br/>
+
+
+- 💬 Bana her şeyi sormaktan çekinmeyin; Yardım etmek için buradayım.
+- 💼 Serbest çalışma fırsatlarına açık [email ](mailto:devilhazretleri@gmail.com),
+
 
 <a href="https://github.com/devilhazretleri">
 <img align="center" src="https://imagedelivery.net/jx4kBRxB5X0ZqZJVZBbWzA/fbbe831d-9469-4b06-444e-b611f5d9ab00/1920x1080" />
