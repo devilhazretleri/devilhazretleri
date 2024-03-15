@@ -1,4 +1,4 @@
-## Merhaba ben, devilhazretleri(emoo) 👋
+## Merhaba ben, devilhazretleri (emoo) 👋
 
 ![](https://komarev.com/ghpvc/?username=devilhazretleri)
 
